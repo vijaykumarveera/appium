@@ -13,6 +13,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 
 public class ToVerifyTheProductInAmzonApp
 {
+	//desired capabilities of appium
 	@Test
 	public void facebookLogin() throws MalformedURLException, InterruptedException
 	{
