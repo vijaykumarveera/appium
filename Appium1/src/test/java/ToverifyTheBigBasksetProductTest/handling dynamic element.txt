@@ -1,0 +1,9 @@
+//div[.='POCO C31 (Royal Blue, 64 GB)']/ancestor::
+div[@class='_3pLy-c row']/descendant::
+div[@class='_30jeq3 _1_WHN1]
+
+//div[@class='_3879cV' and .='SAMSUNG']/parent::
+label[@class='_2iDkf8 t0pPfW']/child::
+div[@class='_24_Dny']
+
+//p[.='Arrival at Mumbai']/parent::div/descendant::div[contains(text(),'Before ')]

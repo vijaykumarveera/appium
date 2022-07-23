@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="driverMethod.ApiDemosDragAndDrop"/>
+      <class name="driverMethod.ZoomInAndZoomOut"/>
+      <class name="driverMethod.Swipe"/>
+      <class name="driverMethod.GeneralStore"/>
+      <class name="AmzonApp.ToVerifyTheProductInAmzonApp"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
